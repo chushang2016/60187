@@ -12,6 +12,5 @@
 *   需要资料或者有任何问题的加QQ：2684634017
 
 *   项目源代码下载地址： http://blog.codercode.cn/#/home/goodDetail?goodId=60187
-*   项目演示视频：
 
 *  5000+项目及演示视频 ：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
